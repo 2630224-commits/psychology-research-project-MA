@@ -1,0 +1,18 @@
+Psychology Research Project - Notes
+Date: 20 Oct 2026
+
+Project: Study Habits and Student Well-being
+Purpose: To understand how different study habits affect well-being for our class activity.
+
+What we did today:
+1. Created GitHub repository: psychology-research-project-MA
+2. Added README with project overview (Commit 1)
+3. Added next steps (Commit 2)
+
+Next tasks:
+- Draft survey questions (fictional)
+- Make data dictionary
+
+Privacy: We will NOT upload any real names or personal data. Only fictional data for learning.
+
+Notes: Learned how to make commits with clear messages.
